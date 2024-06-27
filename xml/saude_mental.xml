@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+
+  <section class="introducao" id="introducao">
+    <h1>O campeonato mais difícil é o da saúde mental dos atletas ‍♂️</h1>
+    <p>Esta é a competição que temos de ganhar. Os atletas não são supermáquinas. Como todos, têm complexidades, dificuldades e sucessos.</p>
+  </section>
+
+  <section id="vida-desporto">
+    <h2>A vida física e mental dos atletas</h2>
+    <p>Há três grandes momentos na vida mental e física dos atletas </p>
+
+    <div class="detalhes-vida-desporto">
+      <div>
+        <img id="pre-competicao-img" />
+        <p>A pré-competição, com as relações no desporto, que envolvem o atleta, o treinador e a família;</p>
+      </div>
+
+      <div>
+        <img id="competicao-img" />
+        <p>A competição, com um número elevado de fatores que provocam stress (stressores) e uma gestão de expetativas complexa;</p>
+      </div>
+
+      <div>
+        <img id="pos-competicao-img" />
+        <p>A pós-competição ou pós-carreira, antecedida de um período de transição, com o vazio, as questões de identidade, a necessidade de se alterarem os estilos de vida e redirecionar as fontes de rendimento, a dificuldade em encontrar trabalho ou ficar no desemprego.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="vantagens-psicologicas">
+    <h2>Vantagens Psicológicas</h2>
+    <p>A prática regular de atividades esportivas traz inúmeros benefícios para a saúde mental e emocional. Abaixo estão alguns dos principais vantagens psicológicas </p>
+
+    <div class="detalhes-vantagens-psicologicas">
+      <ul>
+        <li>
+          <h3>Ajuda no Sistema Nervoso</h3>
+          <p>A prática regular de exercícios ajuda a diminuir os níveis de cortisol, o hormônio do stress. Quando exercitas-te, o teu corpo liberta endorfinas, que são substâncias químicas no cérebro que atuam como analgésicos naturais e melhoram o humor.</p>
+        </li>
+
+        <li>
+          <h3>Melhor Disposição</h3>
+          <p>Durante a atividade física, ocorre a liberação de endorfinas, que proporcionam uma sensação de bem-estar e felicidade. Além disso, o exercício pode ajudar a aliviar sintomas de depressão e ansiedade.</p>
+        </li>
+
+        <li>
+          <h3>Aumento da Confiança</h3>
+          <p>Participar em atividades desportivas pode aumentar a autoestima, ajudando as pessoas a sentirem-se mais confiantes e satisfeitas com as suas realizações. A superação de desafios e a melhoria das habilidades pessoais contribuem para uma autoimagem positiva.</p>
+        </li>
+
+        <li>
+          <h3>Melhoria do Sono</h3>
+          <p>A atividade física regular pode ajudar a regular os padrões de sono, facilitando um sono mais profundo e reparador. Um sono de qualidade é crucial para a saúde mental e o bem-estar geral.</p>
+        </li>
+
+        <li>
+          <h3>Habilidades Sociais</h3>
+          <p>Participar de atividades desportivas em equipa promove a interação social e a construção de relacionamentos. Isso pode melhorar habilidades sociais como comunicação, cooperação e trabalho em equipa.</p>
+        </li>
+
+        <li>
+          <h3>Aumento da Resiliência</h3>
+          <p>O desporto ensina a lidar com derrotas e frustrações, promovendo a resiliência. A capacidade de recuperar-se de desafios e continuar a tentar é uma habilidade valiosa tanto no desporto quanto na vida quotidiana.</p>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+</main>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dados>
+    <imagens>
+        <imagem>
+            <src>assets/img/pre-competicao.png</src>
+            <descricao>Atleta na pre-competicao</descricao>
+        </imagem>
+        <imagem>
+            <src>assets/img/competicao.png</src>
+            <descricao>Atleta em competicao</descricao>
+        </imagem>
+        <imagem>
+            <src>assets/img/pos-competicao.png</src>
+            <descricao>Atleta em pos-competicao</descricao>
+        </imagem>
+         <imagem>
+            <src>https://informa-rio.com/wp-content/uploads/2021/07/correr-ao-ar-livre-1024x640.jpg</src>
+            <descricao>Pessoa a correr ao ar livre</descricao>
+        </imagem>
+         <imagem>
+            <src>https://img.freepik.com/fotos-premium/grupo-de-amigos-se-divertindo-na-praia-jogando-futebol_186382-781.jpg</src>
+            <descricao>Grupo de amigos a jogar futebol</descricao>
+        </imagem>
+         <imagem>
+            <src>https://www.tendaatacado.com.br/dicas/wp-content/uploads/2021/07/interna-como-fazer-yoga.jpg</src>
+            <descricao>Mulher a praticar yoga</descricao>
+        </imagem>
+    </imagens>
+    <logos>
+        <logo>
+            <src>assets/img/logo.png</src>
+            <descricao>Logo do Ismai</descricao>
+        </logo>
+    </logos>
+</dados>
